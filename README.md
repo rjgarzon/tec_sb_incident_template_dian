@@ -16,7 +16,7 @@ Realizar un proyectos enfocado en mostrar DEvOps
 
 - Maven 3.6+
 
-- Docker (opcional)
+- Docker (Podman)
  
 ## Cómo ejecutar (local)
 
